@@ -1,0 +1,37 @@
+{
+  "ProjectData": [
+    {
+      "title": "Project Title 1",
+      "author": "Satyam",
+      "date": "13 July , 2021",
+      "description": "Linda Like To Your Domy Project Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate natus corrupti porro dicta, quidem ex, repellendus sint unde obcaecati facere libero ipsum! Dolorum sequi quas saepe ex cumque, nobis, labore autem porro debitis accusantium minus dolore aliquam cum suscipit provident corrupti dolor iusto odit voluptatibus exercitationem ducimus! Molestiae, dolorem saepe.",
+      "id": 1
+    },
+    {
+      "title": "Project Title 2",
+      "author": "Satyam",
+      "date": "13 July , 2021",
+      "description": "Linda Like To Your Domy Project Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate natus corrupti porro dicta, quidem ex, repellendus sint unde obcaecati facere libero ipsum! Dolorum sequi quas saepe ex cumque, nobis, labore autem porro debitis accusantium minus dolore aliquam cum suscipit provident corrupti dolor iusto odit voluptatibus exercitationem ducimus! Molestiae, dolorem saepe.",
+      "id": 2
+    },
+    {
+      "title": "Project Title 3",
+      "author": "Satyam",
+      "date": "13 July , 2021",
+      "description": "Linda Like To Your Domy Project Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate natus corrupti porro dicta, quidem ex, repellendus sint unde obcaecati facere libero ipsum! Dolorum sequi quas saepe ex cumque, nobis, labore autem porro debitis accusantium minus dolore aliquam cum suscipit provident corrupti dolor iusto odit voluptatibus exercitationem ducimus! Molestiae, dolorem saepe.",
+      "id": 3
+    },
+    {
+      "title": "Project Title 4",
+      "author": "Satyam",
+      "date": "13 July , 2021",
+      "description": "Linda Like To Your Domy Project Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate natus corrupti porro dicta, quidem ex, repellendus sint unde obcaecati facere libero ipsum! Dolorum sequi quas saepe ex cumque, nobis, labore autem porro debitis accusantium minus dolore aliquam cum suscipit provident corrupti dolor iusto odit voluptatibus exercitationem ducimus! Molestiae, dolorem saepe.",
+      "id": 4
+    }
+  ],
+  "Notifications": [
+    "Harry Joined Our Group",
+    "Sanorita Love Your Project",
+    "Linda Like To Your Domy Project"
+  ]
+}

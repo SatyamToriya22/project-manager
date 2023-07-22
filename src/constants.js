@@ -1,0 +1,10 @@
+export const addProject='addProject';
+export const ProjectList='ProjectList';
+export const Notifications='Notifications'
+export const ErrorOccured='ErrorOccured'
+export const LoginSuccess='LoginSuccess'
+export const LoginFailed='LoginFailed'
+export const LogOutSuccessfull='LogOutSuccessfull'
+export const LogOutFailed='LogOutFailed'
+export const SignUpSuccess='SignUpSuccess'
+export const SignUpError='SignUpError'
